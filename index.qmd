@@ -1,5 +1,5 @@
 ---
-title: "sandybeachscience"
+title: "Sandy Beach Science"
 ---
 
 This is a Quarto website. It's my first one and it works! :) Watch this space....

@@ -8,7 +8,44 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      
+      - text: ISBS10
+        menu:
+          - href: isbs10_home.qmd
+            text: Home
+          - href: isbs10_callforabstracts.qmd
+            text: Call for abstracts
+          - href: isbs10_registration.qmd
+            text: Registration
+          - href: isbs10_programme.qmd
+            text: Programme
+          - href: isbs10_workshopprep.qmd
+            text: Workshop preparation
+          - href: isbs10_proceedings.qmd
+            text: Conference proceedings
+          - href: isbs10_accommodation.qmd
+            text: Accommodation
+          - href: isbs10_logistics.qmd
+            text: Logistics and arrivals
+          - href: isbs10_tourism.qmd
+            text: Tourism information
+          - href: isbs10_merchandise.qmd
+            text: ISBS10 merchandise
+          - href: isbs10_outreach.qmd
+            text: Outreach
+          - href: isbs10_contactus.qmd
+            text: Contact us
+
+      - text: Beaches for Life
+        menu:
+          - href: beachesforlife.qmd
+            text: Home
+
+      - text: TIDELINES
+        menu:
+          - href: tidelines.qmd
+            text: Home
+
 
 format:
   html:
