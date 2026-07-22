@@ -1,4 +1,9 @@
-![](images/isbs10_banner.png){fig-alt="10th International Sandy Beach Symposium" fig-align="center" width="7051"}
+---
+title: "About ISBS10"
+sidebar: isbs10
+---
+
+![](/images/isbs10_banner.png){fig-alt="10th International Sandy Beach Symposium"}
 
 **Sandy beaches as threatened social-ecological systems: addressing local to global challenges through actionable pathways for change**
 

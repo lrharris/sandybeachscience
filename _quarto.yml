@@ -14,11 +14,14 @@ website:
         href: beachesforlife/beachesforlife.qmd
       - text: TIDELINES
         href: tidelines/tidelines.qmd
+      - text: test
+        href: test.qmd
             
   sidebar:
     - id: isbs10
       style: docked
       contents:        
+          - href: isbs10/isbs10_home.qmd
           - href: isbs10/isbs10_callforabstracts.qmd
           - href: isbs10/isbs10_registration.qmd
           - href: isbs10/isbs10_programme.qmd
@@ -33,11 +36,13 @@ website:
 
 format:
   html:
+    toc: true
+    toc-depth: 3
+    toc-location: right
     theme:
       - cosmo
       - brand
     css: styles.css
-    toc: true
 
 editor: visual
 
