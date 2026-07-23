@@ -8,31 +8,18 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: ISBS10
-        href: isbs10/isbs10_home.qmd
       - text: Beaches for Life
-        href: beachesforlife/beachesforlife.qmd
+        href: beachesforlife/bfl_home.qmd
       - text: TIDELINES
         href: tidelines/tidelines.qmd
-      - text: test
-        href: test.qmd
+      - text: Citizen science
+        href: citizenscience.qmd
             
   sidebar:
-    - id: isbs10
+    - id: beachesforlife
       style: docked
       contents:        
-          - href: isbs10/isbs10_home.qmd
-          - href: isbs10/isbs10_callforabstracts.qmd
-          - href: isbs10/isbs10_registration.qmd
-          - href: isbs10/isbs10_programme.qmd
-          - href: isbs10/isbs10_workshopprep.qmd
-          - href: isbs10/isbs10_proceedings.qmd
-          - href: isbs10/isbs10_accommodation.qmd
-          - href: isbs10/isbs10_logistics.qmd
-          - href: isbs10/isbs10_tourism.qmd
-          - href: isbs10/isbs10_merchandise.qmd
-          - href: isbs10/isbs10_outreach.qmd
-          - href: isbs10/isbs10_contactus.qmd
+          - href: beachesforlife/bfl_home.qmd
 
 format:
   html:

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sandy Beach Science",
     "section": "",
-    "text": "This is a Quarto website. It’s my first one and it works! :) Watch this space…."
+    "text": "Welcome to the home of sandy beach science in South Africa. The website is under construction, but this is definitely a space you want to watch!"
   },
   {
     "objectID": "about.html",
@@ -171,7 +171,7 @@
     "href": "isbs10/isbs10_accommodation.html",
     "title": "Accommodation",
     "section": "",
-    "text": "Cape St Francis has the following accommodation options:\nVillas (4-5 bedrooms)\nCottages (3-4 bedrooms)\nApartments (1-3 bedrooms)\nThe rooms are twin or double beds where you can stay on your own or share. Most rooms have en suite bathrooms; some have shared bathrooms. We will do our best to give everyone their first or second choice, but note that accommodation allocations will be on a first come (register and pay), first serve basis - so register soon to secure your ideal spot!\nFor those who will be sharing rooms and/or units, there will be an option in the registration form to indicate who you would like to share with. It would be very helpful if you could identify who the person/people is/are that you will share with, and then both indicate each other in the form so that we can match everyone up according to your preferences. If whole research groups would like to share one of the larger units with multiple bedrooms, please list all the people you’d like to share the unit with.\nIf you would like to extend your stay before or after the conference, you are welcome to book extra days at the Cape St Francis Resort. Please book this with the resort directly by email. Let them know you are part of the ISBS10 delegation to take advantage of our group rate. Note that your accommodation booking for the conference is from 20-27 June 2027.",
+    "text": "Accommodation\nCape St Francis has the following accommodation options:\nVillas (4-5 bedrooms)\nCottages (3-4 bedrooms)\nApartments (1-3 bedrooms)\nThe rooms are twin or double beds where you can stay on your own or share. Most rooms have en suite bathrooms; some have shared bathrooms. We will do our best to give everyone their first or second choice, but note that accommodation allocations will be on a first come (register and pay), first serve basis - so register soon to secure your ideal spot!\nFor those who will be sharing rooms and/or units, there will be an option in the registration form to indicate who you would like to share with. It would be very helpful if you could identify who the person/people is/are that you will share with, and then both indicate each other in the form so that we can match everyone up according to your preferences. If whole research groups would like to share one of the larger units with multiple bedrooms, please list all the people you’d like to share the unit with.\nIf you would like to extend your stay before or after the conference, you are welcome to book extra days at the Cape St Francis Resort. Please book this with the resort directly by email. Let them know you are part of the ISBS10 delegation to take advantage of our group rate. Note that your accommodation booking for the conference is from 20-27 June 2027.",
     "crumbs": [
       "Home",
       "Accommodation"
@@ -505,5 +505,26 @@
       "Home",
       "Tourism information"
     ]
+  },
+  {
+    "objectID": "citizenscience.html",
+    "href": "citizenscience.html",
+    "title": "test",
+    "section": "",
+    "text": "test\n\n\ntest"
+  },
+  {
+    "objectID": "citizenscience.html#test",
+    "href": "citizenscience.html#test",
+    "title": "test",
+    "section": "",
+    "text": "test\n\n\ntest"
+  },
+  {
+    "objectID": "citizenscience.html#test-2",
+    "href": "citizenscience.html#test-2",
+    "title": "test",
+    "section": "test",
+    "text": "test\ntest"
   }
 ]

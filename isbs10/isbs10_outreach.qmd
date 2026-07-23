@@ -1,6 +1,0 @@
----
-title: "Outreach"
-sidebar: isbs10
----
-
-Something very exciting is under discussion... watch this space!

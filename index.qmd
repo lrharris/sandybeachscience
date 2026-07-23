@@ -2,4 +2,4 @@
 title: "Sandy Beach Science"
 ---
 
-This is a Quarto website. It's my first one and it works! :) Watch this space....
+Welcome to the home of sandy beach science in South Africa. The website is under construction, but this is definitely a space you want to watch!
