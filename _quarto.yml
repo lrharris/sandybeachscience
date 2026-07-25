@@ -14,6 +14,7 @@ website:
         href: tidelines/tidelines.qmd
       - text: Citizen science
         href: citizenscience.qmd
+
             
   sidebar:
     - id: beachesforlife

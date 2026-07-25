@@ -1,15 +1,29 @@
 ---
-title: "test"
+title: "Citizen science"
+format: 
+  html:
+    page-layout: full
+    toc: false
 ---
 
-## test
+::: inat-widget
+![](images/inat_logo.png){width="311"}
 
-test
+```{=html}
+<script
+  type="text/javascript"
+  charset="utf-8"
+  src="https://www.inaturalist.org/observations/project/60298.widget?layout=large&limit=5&order=desc&order_by=submitted_on">
+</script>
+```
 
-### test
-
-test
-
-## test
-
-test
+```{=html}
+<div class="inat-footer">
+    Explore more observations at
+    <strong><a href="https://www.inaturalist.org/projects/sandy-beaches-s-afr" target="_blank">
+      Sandy Beaches (S Afr) »
+    </a>
+  </strong>
+</div>
+```
+:::
