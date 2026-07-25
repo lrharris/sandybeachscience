@@ -24,6 +24,8 @@ On the other hand, human activities can also cause excessive wrack accumulation 
 
 A more nuanced understanding of these socio-ecological dynamics is therefore needed to support informed decisions about when beach cleaning is beneficial and when it is harmful to balance ecological, social and economic imperatives.
 
+![Wrack is beach-cast kelp, seaweed and seagrass. (Linda Harris CC-BY-NC)](/imgs/wrack.png)
+
 ## Objectives
 
 The project is divided into six work packages that collectively:
@@ -37,5 +39,18 @@ The project is divided into six work packages that collectively:
 4.  Co-develop and test practical interventions that can reconcile biodiversity outcomes with tourism and community needs, and deliver a Best Practice Guide and policy briefs for implementation.
 
 ## Funding
+```{=html}
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
 
+  <div style="margin:0.5rem 1rem;">
+    <img src="../imgs/biodiversa.jpg" 
+      height="70">
+    </div>
+
+  <div style="margin:0.5rem 1rem;">
+    <img src="../imgs/nrf.png" height="70">
+  </div>
+
+</div>
+```
 TIDELINES is a Biodiversa+ project in the BiodivTransform programme, undertaken in seven partner countries: South Africa, Netherlands, Germany, Denmark, Spain, Italy, and Brazil. In South Africa it is funded by the National Research Foundation.

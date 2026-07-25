@@ -1,18 +1,33 @@
 /* css styles */
 
+/* Navbar banner */
+
+
+.navbar {
+  background:
+    linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)),
+    url("imgs/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  min-height: 150px;
+}
+
+/* inat widget */
 .inat-widget {
   font-family: Georgia, serif;
-  padding: 10px;
+  padding: 5px;
   line-height: 1;
 }
 
 .inat-widget-header {
-  margin-bottom: 10px;
+  margin-bottom: 1px;
 }
 
 .inat-widget td {
   vertical-align: top;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .inat-label {
@@ -27,7 +42,7 @@
 
 .inat-observation-body,
 .inat-user-body {
-  padding-left: 10px;
+  padding-left: 1px;
 }
 
 .inat-observation-image {
@@ -36,13 +51,13 @@
 
 .inat-observation-image,
 .inat-user-image {
-  width: 48px;
+  width: 80px;
   display: inline-block;
 }
 
 .inat-observation-image img,
 .inat-user-image img {
-  max-width: 48px;
+  max-width: 100px;
 }
 
 .inat-observation-image img {
@@ -52,8 +67,8 @@
 .inat-widget-small .inat-observation-image {
   display: block;
   float: left;
-  margin: 0 3px 3px 0;
-  height: 48px;
+  margin: 0 0px 0px 0;
+  height: 60px;
 }
 
 .inat-label,
@@ -77,4 +92,7 @@
   font-size: 1rem;
   line-height: 1.4;
   text-align: left;
+}
+.inat-widget {
+  margin-bottom: 20px;
 }

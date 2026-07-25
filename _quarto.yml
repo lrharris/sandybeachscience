@@ -5,13 +5,14 @@ project:
 website:
   title: "Sandy Beach Science"
   navbar:
-    left:
+    pinned: true
+    right:
       - text: Home
         href: index.qmd
       - text: Beaches for Life
         href: beachesforlife/bfl_home.qmd
       - text: TIDELINES
-        href: tidelines/tidelines.qmd
+        href: tidelines/tidelines_home.qmd
       - text: Citizen science
         href: citizenscience.qmd
 
@@ -24,6 +25,12 @@ website:
             text: Project overview
           - href: beachesforlife/studyregion.qmd
             text: Study region
+    - id: tidelines
+      style: docked
+      contents:        
+          - href: tidelines/tidelines_home.qmd
+            text: Project overview
+
 
 format:
   html:
@@ -31,7 +38,7 @@ format:
     toc-depth: 3
     toc-location: right
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
 

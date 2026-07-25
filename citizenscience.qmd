@@ -9,7 +9,7 @@ format:
 If you have ever wanted to contribute to research and conservation, this is your chance! There are several citizen science projects - like this one - that you can join. It's the perfect excuse to go to the beach...
 
 ::: inat-widget
-[![](imgs/inat_logo.png){target="_blank"}](https://www.inaturalist.org/)
+[![](imgs/inat_logo.png){target="_blank" width="200"}](https://www.inaturalist.org/)
 
 ```{=html}
 <script
