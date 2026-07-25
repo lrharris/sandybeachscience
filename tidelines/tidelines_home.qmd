@@ -4,7 +4,7 @@ title: ""
 
 ![](/imgs/TIDELINES.png)
 
-Transformative change and Innovations for Diverse beach Ecosystems and sustainable Livelihoods through Enhanced wrack maNagEment Strategies
+**Transformative change and Innovations for Diverse beach Ecosystems and sustainable Livelihoods through Enhanced wrack maNagEment Strategies**
 
 ## Project goal
 
@@ -39,13 +39,11 @@ The project is divided into six work packages that collectively:
 4.  Co-develop and test practical interventions that can reconcile biodiversity outcomes with tourism and community needs, and deliver a Best Practice Guide and policy briefs for implementation.
 
 ## Funding
+
 ```{=html}
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
 
-  <div style="margin:0.5rem 1rem;">
-    <img src="../imgs/biodiversa.jpg" 
-      height="70">
-    </div>
+
 
   <div style="margin:0.5rem 1rem;">
     <img src="../imgs/nrf.png" height="70">
@@ -53,4 +51,5 @@ The project is divided into six work packages that collectively:
 
 </div>
 ```
+
 TIDELINES is a Biodiversa+ project in the BiodivTransform programme, undertaken in seven partner countries: South Africa, Netherlands, Germany, Denmark, Spain, Italy, and Brazil. In South Africa it is funded by the National Research Foundation.
