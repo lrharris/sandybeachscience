@@ -47,5 +47,3 @@ rsconnect/
 
 /.quarto/
 **/*.quarto_ipynb
-
-images/

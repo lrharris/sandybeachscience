@@ -6,20 +6,22 @@ format:
     toc: false
 ---
 
+If you have ever wanted to contribute to research and conservation, this is your chance! There are several citizen science projects - like this one - that you can join. It's the perfect excuse to go to the beach...
+
 ::: inat-widget
-![](images/inat_logo.png){width="311"}
+[![](imgs/inat_logo.png){target="_blank"}](https://www.inaturalist.org/)
 
 ```{=html}
 <script
   type="text/javascript"
   charset="utf-8"
-  src="https://www.inaturalist.org/observations/project/60298.widget?layout=large&limit=5&order=desc&order_by=submitted_on">
+  src="https://www.inaturalist.org/observations/project/60298.widget?layout=small&limit=12&order=desc&order_by=submitted_on">
 </script>
 ```
 
 ```{=html}
 <div class="inat-footer">
-    Explore more observations at
+    Latest observations. Explore all observations at
     <strong><a href="https://www.inaturalist.org/projects/sandy-beaches-s-afr" target="_blank">
       Sandy Beaches (S Afr) »
     </a>
@@ -27,3 +29,7 @@ format:
 </div>
 ```
 :::
+
+Think of it as Instagram for nature. Go to the beach, take pictures of any plants or animals that you can find with the GPS of your phone turned on, post the pictures to the iNaturalist app or the [iNaturalist](https://www.inaturalist.org/) website, use the AI suggestions for the identification or give it your best guess, and you're done.
+
+You never know, you might just have found a species that no one knows about yet. Or found a species where it hasn't previously been recorded. All observations count!
