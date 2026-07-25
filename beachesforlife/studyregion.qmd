@@ -1,6 +1,5 @@
 ---
 title: "Study region"
-format: html
 ---
 
 Sampling started in South Africa, with sampling in Namibia commencing soon, and then we'll be heading into the Western Indian Ocean. Sampling sites will be added to this map as the project progresses.
