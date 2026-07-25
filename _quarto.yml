@@ -21,6 +21,9 @@ website:
       style: docked
       contents:        
           - href: beachesforlife/bfl_home.qmd
+            text: Project overview
+          - href: beachesforlife/studyregion.qmd
+            text: Study region
 
 format:
   html:

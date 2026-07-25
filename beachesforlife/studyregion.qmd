@@ -1,0 +1,64 @@
+---
+title: "Study region"
+format: html
+---
+
+Sampling started in South Africa, with sampling in Namibia commencing soon, and then we'll be heading into the Western Indian Ocean. Sampling sites will be added to this map as the project progresses.
+
+The map below is interactive - feel free to click and explore where we have been.
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+library(sf)
+library(leaflet)
+library(dplyr)
+
+# Read study area polygon
+# study_area <- st_read("data/study_area.gpkg") |>
+#   st_transform(4326)
+
+# Read sampling sites
+sites <- read.csv("../data/samplingsites.csv") |>
+  st_as_sf(
+    coords = c("longitude", "latitude"),
+    crs = 4326
+  )
+
+# Create interactive map
+leaflet() |>
+
+  # Satellite imagery
+  addProviderTiles(providers$Esri.WorldImagery) |>
+
+  # Zoom to study area
+  # fitBounds(
+  #   lng1 = st_bbox(sites)$xmin,
+  #   lat1 = st_bbox(sites)$ymin,
+  #   lng2 = st_bbox(sites)$xmax,
+  #   lat2 = st_bbox(sites)$ymax
+  # ) |>
+
+  # Study area polygon
+  # addPolygons(
+  #   data = study_area,
+  #   color = "white",
+  #   weight = 3,
+  #   fillColor = "#00BFC4",
+  #   fillOpacity = 0.25,
+  #   popup = "Study area"
+  # ) |>
+
+  # Sampling sites
+  addCircleMarkers(
+    data = sites,
+    radius = 6,
+    stroke = TRUE,
+    weight = 2,
+    color = "white",
+    fillColor = "#d73027",
+    fillOpacity = 0.9,
+    popup = ~locality
+    ) |>
+
+  # Scale bar
+  addScaleBar(position = "bottomleft")
+```
