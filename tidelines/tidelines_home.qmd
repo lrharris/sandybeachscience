@@ -43,7 +43,10 @@ The project is divided into six work packages that collectively:
 ```{=html}
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center;">
 
-
+  <div style="margin:0.5rem 1rem;">
+    <img src="../imgs/biodiversa.jpg" 
+      height="70">
+    </div>
 
   <div style="margin:0.5rem 1rem;">
     <img src="../imgs/nrf.png" height="70">
