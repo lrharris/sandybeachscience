@@ -61,3 +61,4 @@ leaflet() |>
   # Scale bar
   addScaleBar(position = "bottomleft")
 ```
+
