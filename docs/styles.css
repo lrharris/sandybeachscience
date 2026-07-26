@@ -42,7 +42,7 @@
 
 .inat-observation-body,
 .inat-user-body {
-  padding-left: 1px;
+  padding-left: 0px;
 }
 
 .inat-observation-image {
@@ -51,24 +51,32 @@
 
 .inat-observation-image,
 .inat-user-image {
-  width: 80px;
+  width: 90px;
   display: inline-block;
 }
 
 .inat-observation-image img,
 .inat-user-image img {
   max-width: 100px;
+  margin-bottom: 5px;
 }
 
 .inat-observation-image img {
   vertical-align: middle;
 }
 
+.inat-widget-small {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;              /* controls both row and column spacing */
+}
+
 .inat-widget-small .inat-observation-image {
+  float: none;
   display: block;
-  float: left;
-  margin: 0 0px 0px 0;
-  height: 60px;
+  width: 80px;           /* same width as your images */
+  height: auto;
+  margin: 0;
 }
 
 .inat-label,
@@ -88,11 +96,17 @@
 .inat-footer {
   margin-top: 15px;
   padding-top: 10px;
-  font-family: "Trebuchet MS", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+             "Helvetica Neue", Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.4;
   text-align: left;
 }
 .inat-widget {
   margin-bottom: 20px;
+}
+
+.inat-widget {
+  margin-left: 0;
+  padding-left: 0;
 }
