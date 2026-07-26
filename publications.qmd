@@ -1,3 +1,93 @@
 ---
-title: "publications"
+title: "Publications"
+toc: false
+page-layout: full
 ---
+
+Search for my publications related to beaches, and beaches as part of coastal systems. For a full list of publications, including those related more to the offshore marine environment, and to systematic conservation planning, view my [ORCID profile](https://orcid.org/0000-0003-4719-0481).
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+library(RefManageR)
+library(dplyr)
+library(purrr)
+library(reactable)
+
+refs <- ReadBib("references.bib")
+
+pubs <- refs |>
+  purrr::map(\(ref) {
+    
+    authors <- vapply(ref$author, \(a) {
+      
+      family <- paste(a$family, collapse = " ")
+      given <- paste0(substr(a$given, 1, 1), ".", collapse = "")
+      
+      paste0(family, ", ", given)
+      
+    }, FUN.VALUE = character(1))
+    
+    tibble::tibble(
+      author  = paste(authors, collapse = ", "),
+      year    = as.integer(ref$year),
+      title   = as.character(ref$title),
+      journal = as.character(ref$journal),
+      doi     = as.character(ref$doi)
+    )
+    
+  }) |>
+  list_rbind() |>
+  dplyr::arrange(desc(year))
+
+reactable(
+  pubs,
+  searchable = TRUE,
+  filterable = TRUE,
+  sortable = TRUE,
+  pagination = TRUE,
+  defaultPageSize = 20,
+  defaultSorted = "year",
+  defaultSortOrder = "desc",
+  striped = TRUE,
+  highlight = TRUE,
+  bordered = FALSE,
+  columns = list(
+    year = colDef(
+      name = "Year",
+      align = "center",
+      width = 70
+    ),
+    author = colDef(
+      name = "Authors",
+      minWidth = 250
+    ),
+    title = colDef(
+      name = "Title",
+      minWidth = 350,
+      cell = function(value, index) {
+        
+        doi <- pubs$doi[index]
+        
+        if (!is.na(doi) && doi != "") {
+          htmltools::tags$a(
+            href = paste0("https://doi.org/", doi),
+            value,
+            target = "_blank",
+            style = "font-weight: bold;"
+          )
+        } else {
+          htmltools::tags$span(
+            value,
+            style = "font-weight: bold;"
+          )
+        }
+      }
+    ),
+    journal = colDef(
+      name = "Journal",
+      minWidth = 180,
+      style = list(fontStyle = "italic")
+    ),
+    doi = colDef(show = FALSE)
+  )
+)
+```
