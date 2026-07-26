@@ -1,5 +1,62 @@
 ---
 title: "Sandy Beach Science"
+page-layout: full
 ---
 
-Welcome to the home of sandy beach science in South Africa. The website is under construction, but this is definitely a space you want to watch!
+Welcome to the home of sandy beach science in South Africa. The website has just been created, and will be growing in the coming weeks; it's definitely a space you want to watch!
+
+## Research projects
+
+There are several international projects that are underway. Choose one below to read more about the research we are doing.
+
+::::::::: grid
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+![](imgs/bfl_card-02.png){style="margin-bottom: 0;"}
+
+::: {style="padding: 5px;"}
+### Beaches for Life! {.mt-0 .mb-1}
+
+Catalyzing sandy beach conservation in south/east Africa through data, indicators, focus areas for conservation, and a new community of beach scientists
+
+[Read more](beachesforlife/bfl_home.qmd)
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+![](imgs/tidelines_card.png){style="margin-bottom: 0;"}
+
+::: {style="padding: 5px;"}
+### TIDELINES {.mt-0 .mb-1}
+
+Transformative change and Innovations for Diverse beach Ecosystems and sustainable Livelihoods through Enhanced wrack maNagEment Strategies
+
+[Read more](tidelines/tidelines_home.qmd)
+:::
+::::
+:::::
+:::::::::
+
+## Upcoming events
+
+:::::: grid
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+![](imgs/isbs10logo_lr.png){style="margin-bottom: 0;"}
+
+::: {style="padding-left: 15px; margin-top: 5px;"}
+### ISB10 {.mt-0 .mb-1}
+
+The 10th International Sandy Beach Symposium is coming to South Africa, 21-27 June 2027!
+
+[Read more](https://www.beachsymposium.org){target="_blank"}
+:::
+::::
+:::::
+::::::
+
+## Citizen science
+
+Would you like to contribute to beach conservation and research? Find out how [you can contribute](citizenscience.qmd).
