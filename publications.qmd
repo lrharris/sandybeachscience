@@ -4,6 +4,54 @@ toc: false
 page-layout: full
 ---
 
+## Featured papers
+
+:::::::::::: grid
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+![](imgs/tylos_en.png){style="margin-bottom: 0;"}
+
+::: {style="padding: 5px;"}
+### Threat status assessments {.mt-0 .mb-1}
+
+The first red list assessments of sandy beach ecosystem types and invertebrate species, globally. In South Africa, 3 of 12 beach ecosystem types are Endangered, and 4 of 20 species assessed are Endangered. Key pressures are mining, coastal development, artificial light at night, and wrack removal.
+
+[Read more](https://doi.org/10.1016/j.ecss.2025.109447){target="_blank"}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+![](imgs/tourism.png){style="margin-bottom: 0;"}
+
+::: {style="padding: 5px;"}
+### Beach ecosystem services {.mt-0 .mb-1}
+
+Beaches provide important benefits to people, delivering two-thirds of all types of recognised ecosystem services, including every type of cultural service. All components of the littoral active zone (dunes, beach, surf) are important for delivering services in 11 ecosystem service bundles.
+
+[Read more](https://doi.org/10.1016/j.ecoser.2022.101477){target="_blank"}
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+![](imgs/wilderness.png){style="margin-bottom: 0;"}
+
+::: {style="padding: 5px;"}
+### Mapping beach ecosystems {.mt-0 .mb-1}
+
+As ecotonal ecosystems at the land-sea interface, beaches are often poorly represented in ecosystem maps. We define a seashore zone from the dune base - as a proxy for the decadal scale high water mark - to the back of the surf zone, using remote methods to map ecosystem types therein.
+
+[Read more](https://doi.org/10.1016/j.biocon.2019.06.020){target="_blank"}
+:::
+::::
+:::::
+::::::::::::
+
+## Searchable publication list
+
 Search for my publications related to beaches, and beaches as part of coastal systems. For a full list of publications, including those related more to the offshore marine environment, and to systematic conservation planning, view my [ORCID profile](https://orcid.org/0000-0003-4719-0481).
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
