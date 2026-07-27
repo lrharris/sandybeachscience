@@ -47,7 +47,7 @@ Transformative change and Innovations for Diverse beach Ecosystems and sustainab
 ![](imgs/isbs10logo_lr.png){style="margin-bottom: 0;"}
 
 ::: {style="padding-left: 15px; margin-top: 5px;"}
-### ISB10 {.mt-0 .mb-1}
+### ISBS10 {.mt-0 .mb-1}
 
 The 10th International Sandy Beach Symposium is coming to South Africa, 21-27 June 2027!
 
