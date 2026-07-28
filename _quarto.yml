@@ -21,14 +21,14 @@ website:
             
   sidebar:
     - id: beachesforlife
-      style: docked
+      style: floating
       contents:        
           - href: beachesforlife/bfl_home.qmd
             text: Project overview
           - href: beachesforlife/studyregion.qmd
             text: Study region
     - id: tidelines
-      style: docked
+      style: floating
       contents:        
           - href: tidelines/tidelines_home.qmd
             text: Project overview

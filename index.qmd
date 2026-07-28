@@ -1,9 +1,12 @@
 ---
 title: "Sandy Beach Science"
 page-layout: full
+toc: false
 ---
 
 Welcome to the home of sandy beach science in South Africa. The website has just been created, and will be growing in the coming weeks; it's definitely a space you want to watch!
+
+![](imgs/frontcover.jpg)
 
 ## Research projects
 
@@ -59,4 +62,6 @@ The 10th International Sandy Beach Symposium is coming to South Africa, 21-27 Ju
 
 ## Citizen science
 
-Would you like to contribute to beach conservation and research? Find out how [you can contribute](citizenscience.qmd).
+Would you like to contribute to beach conservation and research? Find out how [what you can do](citizenscience.qmd).
+
+![](imgs/citizenscience.jpg)

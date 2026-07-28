@@ -1,5 +1,7 @@
 ---
 title: "Study region"
+page-layout: full
+toc: false
 ---
 
 Sampling started in South Africa, with sampling in Namibia commencing soon, and then we'll be heading into the Western Indian Ocean. Sampling sites will be added to this map as the project progresses.
@@ -61,4 +63,3 @@ leaflet() |>
   # Scale bar
   addScaleBar(position = "bottomleft")
 ```
-
