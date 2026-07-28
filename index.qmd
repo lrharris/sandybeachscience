@@ -12,7 +12,7 @@ There are several international projects that are underway. Choose one below to 
 ::::::::: grid
 ::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 :::: card
-![](imgs/bfl_card-02.png){style="margin-bottom: 0;"}
+[![](imgs/bfl_card-02.png){style="margin-bottom: 0;"}](beachesforlife/bfl_home.qmd)
 
 ::: {style="padding: 5px;"}
 ### Beaches for Life! {.mt-0 .mb-1}
@@ -26,7 +26,7 @@ Catalyzing sandy beach conservation in south/east Africa through data, indicator
 
 ::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 :::: card
-![](imgs/tidelines_card.png){style="margin-bottom: 0;"}
+[![](imgs/tidelines_card.png){style="margin-bottom: 0;"}](tidelines/tidelines_home.qmd)
 
 ::: {style="padding: 5px;"}
 ### TIDELINES {.mt-0 .mb-1}
@@ -44,7 +44,7 @@ Transformative change and Innovations for Diverse beach Ecosystems and sustainab
 :::::: grid
 ::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 :::: card
-![](imgs/isbs10logo_lr.png){style="margin-bottom: 0;"}
+[![](imgs/isbs10logo_lr.png){style="margin-bottom: 0;"}](https://www.beachsymposium.org)
 
 ::: {style="padding-left: 15px; margin-top: 5px;"}
 ### ISBS10 {.mt-0 .mb-1}
