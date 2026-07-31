@@ -17,6 +17,8 @@ website:
         href: citizenscience.qmd
       - text: Publications
         href: publications.qmd
+      - icon: instagram
+        href: https://www.instagram.com/sandybeachscience 
   search: true
             
   sidebar:
