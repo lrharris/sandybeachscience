@@ -4,7 +4,7 @@ page-layout: full
 toc: false
 ---
 
-Sampling started in South Africa, with sampling in Namibia commencing soon, and then we'll be heading into the Western Indian Ocean. Sampling sites will be added to this map as the project progresses.
+Sampling started in South Africa (December 2025, ongoing), with sampling in Namibia recently completed (August 2026), and soon we'll be heading east into the Western Indian Ocean. Sampling sites will be added to this map as the project progresses, so keep an eye on this page to track our progress.
 
 The map below is interactive - feel free to click and explore where we have been.
 
@@ -12,10 +12,23 @@ The map below is interactive - feel free to click and explore where we have been
 library(sf)
 library(leaflet)
 library(dplyr)
+library(rnaturalearth)
 
 # Read study area polygon
 # study_area <- st_read("data/study_area.gpkg") |>
 #   st_transform(4326)
+
+# 1. Project countries vector
+project_countries <- c("Namibia",
+                       "South Africa",
+                       "Mozambique",
+                       "Tanzania",
+                       "Kenya",
+                       "Seychelles",
+                       "Comoros",
+                       "Madagascar",
+                       "Réunion",
+                       "Mauritius")
 
 # Read sampling sites
 sites <- read.csv("../data/samplingsites.csv") |>
@@ -24,20 +37,75 @@ sites <- read.csv("../data/samplingsites.csv") |>
     crs = 4326
   )
 
-# Create interactive map
-leaflet() |>
+bbox <- st_bbox(sites)
 
+# 2. Fetch full country geometries to filter lines and labels
+country_polygons <- ne_countries(scale = "medium", type = "map_units",  returnclass = "sf") |> 
+  filter(name %in% project_countries)
+
+# 3. Download the global coastline layer to subtract it
+coastline <- ne_download(
+  scale = 50, 
+  category = "physical", 
+  type = "coastline", 
+  returnclass = "sf"
+)
+
+# 4. FIX: Convert country polygons into solid outline borders, 
+# then completely erase the coastline segments.
+inland_borders <- country_polygons |> 
+  st_cast("MULTILINESTRING") |> 
+  st_union() |> 
+  suppressWarnings() |> 
+  st_difference(st_union(coastline)) |> 
+  suppressWarnings()
+
+# 5. Extract label points ONLY for your project countries
+country_points <- suppressWarnings(
+  country_polygons |> 
+    st_centroid()
+)
+
+# 6. Leaflet Map Pipeline
+leaflet() |>
   # Satellite imagery
   addProviderTiles(providers$Esri.WorldImagery) |>
-
+  
+  # SOLID INLAND BOUNDARIES (Guaranteed solid, no coastlines)
+  addPolylines(
+    data = inland_borders,
+    color = "#FFED6F",            # High-contrast color over dark satellite
+    weight = 1.5,                  # Thicker line width guarantees visual solidity
+    opacity = 0.7,               # Full opacity
+    smoothFactor = 1.0,          # Prevents vector distortion at different zoom levels
+    group = "Inland Borders"
+  ) |>
+  
+  # Filtered Country Labels
+  addLabelOnlyMarkers(
+    data = country_points,
+    label = ~name,
+    labelOptions = labelOptions(
+      noHide = TRUE,               
+      direction = "center",        
+      textOnly = TRUE,             
+      style = list(
+        "color" = "white",         
+        "font-weight" = "bold",    
+        "font-size" = "13px",      
+        "text-shadow" = "1px 1px 2px black" 
+      )
+    )
+  ) |>
+  
   # Zoom to study area
-  # fitBounds(
-  #   lng1 = st_bbox(sites)$xmin,
-  #   lat1 = st_bbox(sites)$ymin,
-  #   lng2 = st_bbox(sites)$xmax,
-  #   lat2 = st_bbox(sites)$ymax
-  # ) |>
-
+fitBounds(
+  lng1 = as.numeric(bbox$xmin),
+  lat1 = as.numeric(bbox$ymin),
+  lng2 = as.numeric(bbox$xmax),
+  lat2 = as.numeric(bbox$ymax)
+) |>
+  
   # Study area polygon
   # addPolygons(
   #   data = study_area,
@@ -47,7 +115,7 @@ leaflet() |>
   #   fillOpacity = 0.25,
   #   popup = "Study area"
   # ) |>
-
+  
   # Sampling sites
   addCircleMarkers(
     data = sites,
@@ -58,8 +126,8 @@ leaflet() |>
     fillColor = "#d73027",
     fillOpacity = 0.9,
     popup = ~locality
-    ) |>
-
+  ) |>
+  
   # Scale bar
   addScaleBar(position = "bottomleft")
 ```
