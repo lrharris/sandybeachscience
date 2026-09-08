@@ -2,6 +2,8 @@
 title: "Study region"
 page-layout: full
 toc: false
+execute:
+  cache: false
 ---
 
 Sampling started in South Africa (December 2025, ongoing), with sampling in Namibia recently completed (August 2026), and soon we'll be heading east into the Western Indian Ocean. Sites will be added to the map as they are sampled, so keep an eye on this page to track our progress in the coming months.
