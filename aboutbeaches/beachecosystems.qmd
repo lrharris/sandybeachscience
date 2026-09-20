@@ -1,0 +1,61 @@
+---
+title: "Beaches are living ecosystems"
+---
+
+## More than sun, sand and surf
+
+When we think about sandy beaches, the picture that usually comes to mind is sun-kissed holidays spent playing in the sand and surf, lying on a colourful beach towel under an umbrella reading or simply staring out at the waves, and cooling off periodically with a dip in the sea.
+
+While you’re doing all that, under your beach towel there are about 70 animals (more in some places, fewer in others) that are buried in the sand. All we generally see is sand and surf, but beaches are living ecosystems, just like forests, reefs and mangroves, with predators and prey in constant pursuit.
+
+## Not all beaches are the same
+
+Beaches are shaped by sand, waves and tides. This means that unlike most ecosystems that are largely fixed by solid ground, rocks and plants, beaches are dynamic, continually shifting their form through processes of erosion - sand moving off the shore - and accretion - sand accumulating on the shore.
+
+![Erosion and accretion are a natural cycles that shape beach ecosystems. © Linda Harris](/imgs/beachecosystems_erosion.jpg)
+
+This constant movement of sand on and off the shore is why scientists prefer to define beaches in the context of the **littoral active zone** - the across-shore zone of sand within which sand is mobile. It comprises the foredunes, intertidal beach, and the surf zone. This distinction is important for how beaches are managed, but we’ll come back to that.
+
+![The littoral active zone, comprising the foredunes, beach and surf, is the zone within which sand is mobile. © Linda Harris](/imgs/beachecosystems_laz.jpg)
+
+Even though beaches are dynamic ecosystems, there are still broad types of sandy shores that are recognised, with beaches tending to persist as a single type over time (unless there is a major disruption in the system). These types depend on the tide range, wave climate, and the local sand that get shaped into different forms. Scientists refer to these shore forms as **beach morphodynamic types**.
+
+## Beach morphodynamic types
+
+In microtidal climates where the tide range is less than 2 m, waves play a stronger role in shaping the beach than do the tides, and so they are considered to be wave-dominated beaches. In South Africa, all the beaches are microtidal.
+
+Where the sand grain size is fine, the beach is wide and flat. The surf zone is usually wide too, with large waves that lose energy as they tumble through to the shore. These are called **dissipative beaches**.
+
+![Dissipative beaches are wide and flat with fine sand. © Linda Harris](/imgs/beachecosystems_dissipative.jpg)
+
+Where the sand grain size is coarse, the intertidal beach is narrow and steep. The surf zone is usually narrow too, with waves that break often directly onto the shore, sometimes reflecting their energy back to sea and colliding with the next row of incoming waves. These are called **reflective beaches**.
+
+![Reflective beaches are narrow and steep with coarse sand. © Linda Harris](/imgs/beachecosystems_reflective.jpg)
+
+Between these two types are a range of **intermediate beaches** that have medium-grained sand, and moderate slopes and surf zones. Characteristic features of these beaches are usually well-formed rip currents and/or sand bars in the surf, and cusps - rolling hills of sand - along the shore.
+
+![Intermediate beaches usually have rip currents or sand bars in the surf, and cusps on the shore; look carefully to see the cusps on this beach. © Linda Harris](/imgs/beachecosystems_intermediate.jpg)
+
+As the tide range becomes larger (\>2 m) and larger (\>4-6 m), beaches respectively become tide modified, and then tide dominated, as the role of tides shaping the shore increases. These kinds of conditions produce **ultra-dissipative beaches** and **mud flats**.
+
+*Think of the beaches you like to visit - what morphodynamic type do you think it is?*
+
+## The animals under your towel
+
+When visiting the shore, you may have seen some crabs scuttle past, or a few snails crawling where the sand is wet. Although some animals are visible above the sand, most live their lives in the sand, some emerging to swim in the water as the tide comes in. **The densities of animals buried in the sand depends on the beach morphodynamic type.**
+
+Living on a beach for a small animal (mostly 1 mm to 10 cm) is challenging because the world around them is constantly moving. It’s similar to what it would be like for us to live in a kids’ ball pit that is filled with balls and continually splashed with and submerged in water.
+
+![Living on beaches can be challenging if you're a small animal, like this beach hopper, *Africorchestia meridionalis*. © Linda Harris](/imgs/beachecosystems_ameridionalis.jpg)
+
+If the waves come fast, the animals have very little time to bury themselves. The grain size of the sand can also make that job harder. This is why beach morphodynamics plays such a critical role in shaping beach communities.
+
+On dissipative beaches, the waves gently wash up onto the shore, usually spaced relatively far apart. This gives animals a good amount of time to bury themselves into the fine sand to avoid getting washed away. On reflective beaches, the short time between waves that hit the shore with more force makes it difficult to burrow into the coarse sand before the next wave washes them away.
+
+Because reflective beaches pose harsher conditions for beach animals to survive, the **number and types of animals is greater on dissipative beaches than on reflective beaches**, and animal abundance and diversity on intermediate beaches falls somewhere in the middle.
+
+Under the average beach towel, you can expect to find around 70 of these animals. But if you take a walk on a dissipative beach, within a 1-m strip of shore from the waves to the dunes, you can find up to 500 000 individuals of a single species!
+
+Visit the [Sandy Beaches (s Afr) project](https://www.inaturalist.org/projects/sandy-beaches-s-afr?tab=species){target="_blank"} on iNaturalist to view some of the beach species that you can find in southern Africa, and [Sandy Beach Invertebrates (Global)](https://www.inaturalist.org/projects/sandy-beach-invertebrates-global?tab=species){target="_blank"} project to look for beach species found elsewhere in the world.
+
+*Next time you go to the beach, see if you can spot some of these interesting animals.*

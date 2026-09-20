@@ -11,6 +11,8 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Learn about beaches
+        href: aboutbeaches/beachecosystems.qmd
       - text: Beaches for Life
         href: beachesforlife/bfl_home.qmd
       - text: TIDELINES

@@ -4,9 +4,11 @@ page-layout: full
 toc: false
 ---
 
-Welcome to the home of sandy beach science in South Africa. The website has just been created, and will be growing in the coming weeks; it's definitely a space you want to watch!
+Welcome to the home of sandy beach science in South Africa. Here, you will be able to [**learn about beaches**](aboutbeaches/beachecosystems.qmd). You can explore the different types of sandy shores, and find out more about the animals that call beaches home, the pressures beaches are facing, the best management and conservation actions, and how you can contribute and make a difference.
 
 ![](imgs/frontcover.jpg)
+
+This website is continually updated with information - bookmark it or follow us on [Instagram](https://www.instagram.com/sandybeachscience/){target="_blank"} to find out when new content is added.
 
 ## Research projects
 
