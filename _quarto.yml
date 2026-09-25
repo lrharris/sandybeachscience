@@ -12,7 +12,7 @@ website:
       - text: Home
         href: index.qmd
       - text: Learn about beaches
-        href: aboutbeaches/beachecosystems.qmd
+        href: aboutbeaches/learn_home.qmd
       - text: Beaches for Life
         href: beachesforlife/bfl_home.qmd
       - text: TIDELINES
@@ -49,6 +49,6 @@ format:
       - sandstone
       - brand
     css: styles.css
-
+  
 editor: visual
 

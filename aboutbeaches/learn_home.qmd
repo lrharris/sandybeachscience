@@ -1,0 +1,39 @@
+---
+title: "Learn about beaches"
+page-layout: full
+toc: false
+---
+
+Choose one of the following topics to learn more about sandy beaches.
+
+*(This section is a work in progress, and more pages will be added over time - watch this space!)*
+
+::::::::: grid
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+[![](/imgs/abtbeaches_c_beachecosystems.JPG){style="margin-bottom: 0;"}](beachecosystems.qmd)
+
+::: {style="padding: 5px;"}
+### Beaches ecosystems {.mt-0 .mb-1}
+
+Beaches are more than sand! Learn about the different types of beaches, and how they determine what animals can survive there.
+
+[Read more](beachecosystems.qmd)
+:::
+::::
+:::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+[![](/imgs/abtbeaches_c_beachspecies.JPG){style="margin-bottom: 0;"}](beachspecies.qmd)
+
+::: {style="padding: 5px;"}
+### Beach animals {.mt-0 .mb-1}
+
+Beach animals include more than just birds and turtles. There's a hidden world of highly specialised animals buried in the sand.
+
+[Read more](beachspecies.qmd)
+:::
+::::
+:::::
+:::::::::
