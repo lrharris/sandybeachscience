@@ -4,7 +4,7 @@ page-layout: full
 toc: false
 ---
 
-Welcome to the home of sandy beach science in South Africa. Here, you will be able to [**learn about beaches**](aboutbeaches/beachecosystems.qmd). You can explore the different types of sandy shores, and find out more about the animals that call beaches home, the pressures beaches are facing, the best management and conservation actions, and how you can contribute and make a difference.
+Welcome to the home of sandy beach science in South Africa. Here, you will be able to [**learn about beaches**](aboutbeaches/learn_home.qmd). You can explore the different types of sandy shores, and find out more about the animals that call beaches home, the pressures beaches are facing, the best management and conservation actions, and how you can contribute and make a difference.
 
 ![](imgs/frontcover.jpg)
 
