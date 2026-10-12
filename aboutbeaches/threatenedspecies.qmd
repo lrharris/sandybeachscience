@@ -1,0 +1,264 @@
+---
+title: "Beach life on the red list"
+reference-location: margin
+author:
+  - name:
+      given: Linda R.
+      family: Harris
+    orcid: 0000-0003-4719-0481
+date: last-modified
+bibliography: references.bib
+---
+
+```{=html}
+<style>
+div.callout-note.callout {
+  border-left-color: #2a6f9d;
+}
+div.callout-note.callout-style-default .callout-header {
+  background-color: #d8e8f0;
+}
+
+div.callout-note.callout.en {
+  border-left-color: #FC7F3F;
+}
+div.callout-note.callout.en.callout-style-default .callout-header {
+  background-color: #FEE5D6;
+}
+div.callout-note.callout.en .callout-body-container {
+  background-color: #FFF9F5;
+}
+
+div.callout-note.callout.nt {
+  border-left-color: #CCE226;
+}
+div.callout-note.callout.nt.callout-style-default .callout-header {
+  background-color: #F0F6C8;
+}
+div.callout-note.callout.nt .callout-body-container {
+  background-color: #FCFDF1;
+}
+</style>
+```
+
+## What is the red list?
+
+The IUCN maintains a [Red List of Species](https://www.iucnredlist.org/ "target=_blank") based on assessments of how close a species is to extinction. The assessments allow scientists to categorise species into one of nine categories, depending on whether the species has been assessed, if there is adequate information to complete an assessment, and the level of extinction risk. The collective term for species that are Critically Endangered, Endangered and Vulnerable is 'threatened'.
+
+::: {style="text-align: center;"}
+![Categories in the IUCN Red List of Species. Image source: [IUCN](https://www.iucnredlist.org/about/faqs#What%20are%20the%20Red%20List%20Categories%20and%20Criteria){target="_blank"}.](/imgs/iucn_rls_categories.jpg){fig-align="center" width="496"}
+:::
+
+## First ever red list assessments of beach invertebrates
+
+Recently, the first ever red list assessments were undertaken for sandy beach invertebrates. There were 20 species that were selected to be assessed. Most of these species occur only in South Africa, some extend into Namibia or Mozambique, and only the four crabs and one clam (*Latona madagascariensis*) have broader distributions.
+
+A database of species occurrences was compiled from [iNaturalist](https://www.inaturalist.org){target="_blank"}, [GBIF](https://www.gbif.org/){target="_blank"}, and field sampling to calculate the area of occupancy (AOO[^1]) and extent of occurrence (EOO[^2]) of each of the species using the [GeoCAT](https://geocat.iucnredlist.org/){target="_blank"} tool. These metrics, data from past research, and expert knowledge were used to assess the species using the [IUCN Red List Criteria and Categories](https://www.iucnredlist.org/resources/summary-sheet){target="_blank"}.
+
+[^1]: **AOO**: The area occupied by a species, calculated using a standard 2x2 km^2^ grid
+
+[^2]: **EOO**: The total area within which a species occurs, measured as a minimum convex polygon around all localities
+
+::: {.callout-note style="background-color: #d8e8f0; border-left-color: #2a6f9d" appearance="minimal"}
+Most of the data that helped to plot the species' distributions and calculate the EOOs and AOOs came from iNaturalist. This is one of the reasons why citizen science initiatives are so important! If you would like to contribute and help make more of these assessments possible, view the [citizen science page](/citizenscience.qmd). Each observation genuinely makes a difference!
+:::
+
+## Red list assessments
+
+The species that were assessed are pictured below. You can click on each of the pictures to view the full IUCN Red List of Species assessments. Photo credits: © Linda Harris
+
+::::::::::::::::::::::: grid
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254661607/254662297/" target="_blank">![Donax serra EN](/imgs/cst-s-Donax-serra_Linda-Harris.png){.img-fluid alt="Donax serra EN"}</a> <br>*Donax serra* EN
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254657167/254662282/" target="_blank">![Tylos capensis EN](/imgs/cst-s-Tylos-capensis_Linda-Harris.png){.img-fluid alt="Tylos capensis EN"}</a> <br>*Tylos capensis* EN
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254657182/254662322/" target="_blank">![Tylos granulatus EN](/imgs/cst-s-Tylos-granulatus_Linda-Harris.png){.img-fluid alt="Tylos granulatus EN"}</a> <br>*Tylos granulatus* EN
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254559963/254662352/" target="_blank">![Acanthoscelis ruficornis EN](/imgs/cst-s-Acanthoscelis-ruficornis_Linda-Harris.png){.img-fluid alt="Acanthoscelis ruficornis EN"}</a> <br>*Acanthoscelis ruficornis* EN
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254562178/254662312/" target="_blank">![Africorchestia quadrispinosa NT](/imgs/cst-s-Africorchestia-quadrispinosa_Linda-Harris.png){.img-fluid alt="Africorchestia quadrispinosa NT"}</a> <br>*Africorchestia quadrispinosa* NT
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254562225/254662367/" target="_blank">![Capeorchestia capensis NT](/imgs/cst-s-Capeorchestia-capensis_Linda-Harris.png){.img-fluid alt="Capeorchestia capensis NT" target="_blank"}</a> <br>*Capeorchestia capensis* NT
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254561505/254662302/" target="_blank">![Pachyphaleria capensis NT](/imgs/cst-s-Pachyphaleria-capensis_Linda-Harris.png){.img-fluid alt="Pachyphaleria capensis NT"}</a> <br>*Pachyphaleria capensis* NT
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254656958/254662327/" target="_blank">![Excirolana latipes LC](/imgs/cst-s-Excirolana-latipes_Linda-Harris.png){.img-fluid alt="Excirolana latipes LC"}</a> <br>*Excirolana latipes* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254657119/254662347/" target="_blank">![Excirolana natalensis LC](/imgs/cst-s-Excirolana-natalensis_Linda-Harris.png){.img-fluid alt="Excirolana natalensis LC"}</a> <br>*Excirolana natalensis* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254562118/254662292/" target="_blank">![Griffithsius latipes LC](/imgs/cst-s-Griffithsius-latipes_Linda-Harris.png){.img-fluid alt="Griffithsius latipes LC"}</a> <br>*Griffithsius latipes* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254661633/254662307/" target="_blank">![Latona sordida LC](/imgs/cst-s-Latona-sordida_Linda-Harris.png){.img-fluid alt="Latona sordida LC"}</a> <br>*Latona sordida* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254661624/254662362/" target="_blank">![Latona madagascariensis LC](/imgs/cst-s-Latona-madagascariensis_Linda-Harris.png){.img-fluid alt="Latona madagascariensis LC"}</a> <br>*Latona madagascariensis* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254661651/254662372/" target="_blank">![Bullia digitalis LC](/imgs/cst-s-Bullia-digitalis_Linda-Harris.png){.img-fluid alt="Bullia digitalis LC"}</a> <br>*Bullia digitalis* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254662276/254662317/" target="_blank">![Bullia rhodostoma LC](/imgs/cst-s-Bullia-rhodostoma_Linda-Harris.png){.img-fluid alt="Bullia rhodostoma LC"}</a> <br>*Bullia rhodostoma* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254661670/254662287/" target="_blank">![Bullia natalensis LC](/imgs/cst-s-Bullia-natalensis_Linda-Harris.png){.img-fluid alt="Bullia natalensis LC"}</a> <br>*Bullia natalensis* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254661663/254662342/" target="_blank">![Bullia mozambicensis LC](/imgs/cst-s-Bullia-mozambicensis_Linda-Harris.png){.img-fluid alt="Bullia mozambicensis LC"}</a> <br>*Bullia mozambicensis* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254655894/254662357/" target="_blank">![Emerita austroafricana LC](/imgs/cst-s-Emerita-austroafricana_Linda-Harris.png){.img-fluid alt="Emerita austroafricana LC"}</a> <br>*Emerita austroafricana* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254656446/254662332/" target="_blank">![Ocypode ceratophthalmus LC](/imgs/cst-s-Ocypode-ceratophthalmus_Linda-Harris.png){.img-fluid alt="Ocypode ceratophthalmus LC"}</a> <br>*Ocypode ceratophthalmus* complex\* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254656659/254662377/" target="_blank">![Ocypode madagascariensis LC](/imgs/cst-s-Ocypode-madagascariensis_Linda-Harris.png){.img-fluid alt="Ocypode madagascariensis LC"}</a> <br>*Ocypode madagascariensis* LC
+:::
+
+::: {.g-col-lg-4 .g-col-6 .text-center}
+<a href="https://www.iucnredlist.org/species/254656669/254662337/" target="_blank">![Ocypode ryderi LC](/imgs/cst-s-Ocypode-ryderi_Linda-Harris.png){.img-fluid alt="Ocypode ryderi LC"}</a> <br>*Ocypode ryderi* LC
+:::
+:::::::::::::::::::::::
+
+\*Since the assessment of *Ocypode ceratophthalmus*, the species has been subsequently split into three different species [@davie2026]. This means the assessment is of the *Ocypode ceratophthalmus* complex. The species pictured above is *Ocypode celadon,* which was described as a new species as part of the taxonomic revision*.*
+
+## Species most at risk
+
+Seven of the 20 species assessed are threatened or Near Threatened. The species that are most at risk are the Endangered white mussels (*Donax serra*), pillbugs (*Tylos capensis* and *Tylos granulatus*) and beach ground beetle (*Acanthoscelis ruficornis*). Click on each of the boxes below to find out why the species are threatened or Near Threatened.
+
+**Endangered species**
+
+:::::: {.callout-note .en icon="false" collapse="true"}
+### *Donax serra*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Donax-serra_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Donax serra*** (white mussel) is a beach clam that is endemic to Namibia and South Africa. There is evidence of population declines by 50-80% based on commercial catch and catch per unit effort (CPUE) data in South Africa over the past 10 years, disappearance of the species at sites that have been mined in Namibia, and anecdotal evidence of severe declines and/or disappearance of the species at certain beaches in South Africa. Harmful algal blooms can also cause mass mortalities. The overall population is suspected to have declined by over 50% in the past decade and it is therefore assessed as **Endangered** under Criterion A2.
+:::
+:::::
+::::::
+
+:::::: {.callout-note .en icon="false" collapse="true"}
+### *Tylos capensis*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Tylos-capensis_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Tylos capensis*** (Cape calloused beach pillbug) is endemic to South Africa. It has a limited range and restricted habitat along the South African south coast, with between 9 and 12 locations extant. It is experiencing ongoing loss, degradation and fragmentation of habitat to expanding coastal development and artificial light at night (ALAN), and has been lost from at least four locations, including inside protected areas. This species broods its young, has small broods and limited connectivity, and has been assessed as being severely fragmented based on the IUCN definition. It therefore qualifies as **Endangered** under Criterion B.
+:::
+:::::
+::::::
+
+:::::: {.callout-note .en icon="false" collapse="true"}
+### *Tylos granulatus*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Tylos-granulatus_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Tylos granulatus*** (granulated calloused beach pillbug) is restricted to the coast of Namibia and South Africa. It generally occurs in low numbers, and is found in large abundances (hundreds to thousands of individuals) in only a few places. Extirpations have been recorded at the southern end of its range due to coastal development, there are no recent records in the northern part of its range, and it is impacted by mining. Kelp wrack removal takes away an important source of food for this species. Collectively these pressures are causing notable declines in its habitat availability and quality, and declines in the number of mature individuals. This species broods its young, has small broods and limited connectivity, and has been assessed as being severely fragmented based on the IUCN definition. It therefore qualifies as **Endangered** under Criterion B.
+:::
+:::::
+::::::
+
+:::::: {.callout-note .en icon="false" collapse="true"}
+### *Acanthoscelis ruficornis*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Acanthoscelis-ruficornis_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Acanthoscelis ruficornis*** (beach ground beetle) is a southern African endemic species, found only in the supralittoral habitat on sandy beaches along the west coast of South Africa and Namibia. It burrows in the sand or hides under kelp wrack, feeding on invertebrates associated with wrack. Approximately 80% of its recent (since 2000) range is exposed to mining, coastal development and/or kelp wrack removal. These pressures are causing declines in habitat extent, quality, and population abundance, and there is evidence that the species has been lost from some sites that have been mined. The population is inferred to be severely fragmented, comprising small, isolated subpopulations across its range. It is therefore listed as **Endangered** under Criterion B.
+:::
+:::::
+::::::
+
+**Near Threatened species**
+
+:::::: {.callout-note .nt icon="false" collapse="true"}
+### *Africorchestia quadrispinosa*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Africorchestia-quadrispinosa_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Africorchestia quadrispinosa*** (four-spined sandhopper) is endemic to southern Africa, and is found only on beaches with beach-cast wrack on the south/west coast of South Africa and Namibia. It is experiencing ongoing loss, degradation and fragmentation of habitat to coastal mining, wrack removal and coastal development. This species broods its young, has small broods and limited connectivity. However, where their habitat is intact, subpopulation sizes are large. Therefore, despite limited connectivity, the population does not qualify as severely fragmented based on the IUCN definition. It therefore qualifies as **Near Threatened** under Criterion B.
+:::
+:::::
+::::::
+
+:::::: {.callout-note .nt icon="false" collapse="true"}
+### *Capeorchestia capensis*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Capeorchestia-capensis_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Capeorchestia capensis*** (Cape sandhopper) is endemic to South Africa. It has a limited range and is restricted to beaches with wrack along the South African south-west coast. It is experiencing ongoing loss, degradation and fragmentation of habitat to coastal mining, wrack removal and coastal development. This species broods its young, has small broods of 1-9 individuals and limited connectivity. However, where their habitat is intact, subpopulation sizes are large. Therefore, despite limited connectivity, the population does not qualify as severely fragmented based on the IUCN definition. It therefore qualifies as **Near Threatened** under Criterion B.
+:::
+:::::
+::::::
+
+:::::: {.callout-note .nt icon="false" collapse="true"}
+### *Pachyphaleria capensis*
+
+::::: grid
+::: {.g-col-lg-4 .g-col-12 .text-center}
+![](/imgs/cst-s-Pachyphaleria-capensis_Linda-Harris.png)
+:::
+
+::: {.g-col-lg-8 .g-col-12}
+***Pachyphaleria capensis*** (Cape beach darkling beetle) is endemic to southern Africa, and is found only on beaches with beach-cast wrack on the south-west coast of South Africa and along the south to central Namibian coast. It is experiencing ongoing loss, degradation and fragmentation of habitat to coastal mining, wrack removal and coastal development. Not much is known about the species, but it is suspected from the life history that connectivity is limited. However, where their habitat is intact, subpopulation sizes are large. Therefore, despite limited connectivity, the population does not qualify as severely fragmented based on the IUCN definition. It therefore qualifies as **Near Threatened** under Criterion B.
+:::
+:::::
+::::::
+
+## Source {data-link="publication"}
+
+Harris, L.R., Raimondo, D., Sink, K., Holness, S.D., Skowno, A.L., 2025. [Sandy beach ecosystem and species red listing highlight priorities for beach conservation and restoration](https://doi.org/10.1016/j.ecss.2025.109447){target="_blank"}. Estuarine, Coastal and Shelf Science, 324: 109447.
+
+See also South Africa's National Biodiversity Assessment [Coastal Species Assessments](https://nba.sanbi.org.za/content/coast/cst_species.html){target="_blank"}.\

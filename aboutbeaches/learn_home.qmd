@@ -8,7 +8,7 @@ Choose one of the following topics to learn more about sandy beaches.
 
 *(This section is a work in progress, and more pages will be added over time - watch this space!)*
 
-::::::::: grid
+:::::::::::: grid
 ::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 :::: card
 [![](/imgs/abtbeaches_c_beachecosystems.JPG){style="margin-bottom: 0;"}](beachecosystems.qmd)
@@ -36,4 +36,18 @@ Beach animals include more than just birds and turtles. There's a hidden world o
 :::
 ::::
 :::::
-:::::::::
+
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: card
+[![](/imgs/abtbeaches_c_threatenedspecies.JPG){style="margin-bottom: 0;"}](threatenedspecies.qmd)
+
+::: {style="padding: 5px;"}
+### Threatened invertebrates {.mt-0 .mb-1}
+
+Beaches experience a lot of impacts, which affects the animals that live there. See which ones have the highest risk of extinction.
+
+[Read more](threatenedspecies.qmd)
+:::
+::::
+:::::
+::::::::::::
