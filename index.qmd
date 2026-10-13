@@ -56,7 +56,7 @@ Transformative change and Innovations for Diverse beach Ecosystems and sustainab
 
 Join the iNaturalist citizen science challenge to observe and upload observations of ghost crabs!
 
-[Follow on Instagram](https://www.instagram.com/sandybeachscience/)
+[Follow on Instagram](https://www.instagram.com/sandybeachscience/){target="_blank"} and [iNaturalist](https://www.inaturalist.org/observations?created_d1=2026-10-01&created_d2=2026-10-31&subview=map&taxon_id=53738){target="_blank"}
 :::
 ::::
 :::::
