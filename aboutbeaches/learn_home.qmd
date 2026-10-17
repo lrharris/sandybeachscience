@@ -2,11 +2,24 @@
 title: "Learn about beaches"
 page-layout: full
 toc: false
+format:
+  html:
+    footnotes-hover: true
+    include-in-header:
+      text: |
+        <style>
+          #footnotes,
+          section.footnotes,
+          .quarto-appendix-heading { display: none !important; }
+          #quarto-appendix,
+          .quarto-appendix-contents,
+          #quarto-appendix > * { border: none !important; }
+        </style>
 ---
 
-Choose one of the following topics to learn more about sandy beaches.
+Choose one of the following topics to learn more about sandy beaches.[^1]
 
-*(This section is a work in progress, and more pages will be added over time - watch this space!)*
+[^1]: This section is continually being updated with new topics. Follow on [Instagram](https://www.instagram.com/sandybeachscience){target="_blank"} to receive alerts when new content is posted.
 
 :::::::::::: grid
 ::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}

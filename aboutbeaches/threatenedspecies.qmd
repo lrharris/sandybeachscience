@@ -65,7 +65,7 @@ Most of the data that helped to plot the species' distributions and calculate th
 
 ## Red list assessments
 
-The species that were assessed are pictured below. You can click on each of the pictures to view the full IUCN Red List of Species assessments. Photo credits: © Linda Harris
+The species that were assessed are pictured below. You can click on each of the pictures to view the full IUCN Red List of Species assessments.
 
 ::::::::::::::::::::::: grid
 ::: {.g-col-lg-4 .g-col-6 .text-center}

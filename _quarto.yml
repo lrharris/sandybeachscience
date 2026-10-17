@@ -31,14 +31,19 @@ website:
       contents:        
           - href: beachesforlife/bfl_home.qmd
             text: Project overview
-          - href: beachesforlife/studyregion.qmd
-            text: Study region
+          - section: Study region
+            href: beachesforlife/studyregion.qmd
+            contents:
+              - href: beachesforlife/bfl_namibia.qmd
+                text: Namibia
     - id: tidelines
       style: floating
       contents:        
           - href: tidelines/tidelines_home.qmd
             text: Project overview
-
+            
+  page-footer:
+    center: "All photographs © Linda Harris unless otherwise stated."
 
 format:
   html:
