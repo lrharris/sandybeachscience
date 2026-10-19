@@ -33,9 +33,9 @@ website:
             text: Project overview
           - section: Study region
             href: beachesforlife/studyregion.qmd
-#            contents:
-#              - href: beachesforlife/bfl_namibia.qmd
-#                text: Namibia
+            contents:
+             - href: beachesforlife/bfl_namibia.qmd
+               text: Namibia
     - id: tidelines
       style: floating
       contents:        
