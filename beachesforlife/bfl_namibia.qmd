@@ -7,7 +7,7 @@ bread-crumbs: false
 
 ## Sampling desert beaches
 
-![*Beaches for Life!* Namibia (northern trip, left to right): Harhold Beukes (University of Namibia), Gadaffi Muhanze (University of Namibia), Bronwyn van Wyngaardt (Nelson Mandela University), Mayday Haulofu (University of Namibia), Linda Harris (Nelson Mandela University), Anja Kreiner (Namibian Ministry of Fisheries and Mineral Resources), Hayley Brand (Namibia, independent).](/imgs/nam_northteam.jpg)
+![Beaches for Life! Namibia (northern trip, left to right): Harhold Beukes (University of Namibia), Gadaffi Muhanze (University of Namibia), Bronwyn van Wyngaardt (Nelson Mandela University), Mayday Haulofu (University of Namibia), Linda Harris (Nelson Mandela University), Anja Kreiner (Namibian Ministry of Agriculture, Fisheries, Water and Land Reform), Hayley Brand (Namibia, independent).](/imgs/nam_northteam.jpg)
 
 The first field trip for *Beaches for Life!* that was outside of South Africa took place from 7-22 August 2026. Once we arrived at the Sam Nujoma Marine and Coastal Resources Research Centre (SANUMARC) in Henties Bay, it was a privilege to gift an equipment pack to the University of Namibia (UNAM) that includes everything needed to sample sandy shores. The pack also included a few supplies for the related laboratory work, and a copy of [*The Ecology of Sandy Shores*](https://www.sciencedirect.com/book/monograph/9780443217548/the-ecology-of-sandy-shores){target="_blank"} book. We packed the equipment in two 4x4 bakkies, along with food, 200 L of water and more than 300 L of fuel, and set off northwards toward the Cunene River at the border with Angola.
 
@@ -65,7 +65,7 @@ We enjoyed a final night together around the fire, sampled the next day, and pac
 
 ## Sampling urban beaches
 
-It was a real change of pace sampling an urban beach at Swakopmund, where the intent was to pick up some contrasts from the pristine sites we’d been sampling in the Skeleton Coast National Park. The impacts were evident, with lots of sampling stations containing no animals. The surf was also wild, leaving us wondering if beach sampling could be classified as an extreme sport!
+It was a real change of pace sampling an urban beach at Swakopmund, where the intent was to pick up some contrasts with the pristine sites we’d been sampling in the Skeleton Coast National Park. The impacts were evident, with lots of sampling stations containing no animals. The surf was also wild, leaving us wondering if beach sampling could be classified as an extreme sport!
 
 ![Our team provided lunch-time entertainment for beach visitors at Swakopmund as we negotiated the large, plunging breakers.](/imgs/nam_swakop.jpg)
 
